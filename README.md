@@ -1,7 +1,7 @@
 # DBGold
 This is a project application of an ecommerce website, made purely with ReactJS.
 
-The hosted of version of this ecommerce site can be found at [Värmdö Gymnasiums server](http://labb.vgy.se/~davidbd/projekt/foretag).
+The hosted of version of this ecommerce site can be found at [Värmdö Gymnasiums server](http://labb.vgy.se/~davidbd/webbutveckling1/projekt/foretag).
 
 
 ## To run this project locally
