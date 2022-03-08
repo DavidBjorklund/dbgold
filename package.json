@@ -2,7 +2,7 @@
   "name": "dbgold",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://labb.vgy.se/~davidbd/projekt/foretag",
+  "homepage": "http://labb.vgy.se/~davidbd/webbutveckling1/projekt/foretag",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",

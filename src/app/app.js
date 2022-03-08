@@ -21,7 +21,7 @@ import history from '../history.js'
 const App = ()=>{
   const { cart, setCart } = useContext(AppContext)
   return (
-    <BrowserRouter history={history} basename="/~davidbd/projekt/foretag/">
+    <BrowserRouter history={history} basename="/~davidbd/webbutveckling1/projekt/foretag/">
       <ScrollToTop />
       <Header />
       <Switch>
