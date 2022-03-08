@@ -11,13 +11,18 @@ The hosted of version of this ecommerce site can be found at [Värmdö Gymnasium
 * npm
 
 
+### Change the path of the website
+To change the path of the website you should change two things:
+1. In the /src/app/app.js > you should update the variable basename to your new path.
+2. In the /package.json > you should update the "homepage" value. 
+
 ### Test Application
 
 To test the application in developer mode in a local server, type the following in your command prompt in the application folder:
 
 `npm start`
 
-Then open [http://localhost:3000](http://localhost:3000), to view it in your browser.
+npm will then create a local server where you can view the website in your browser.
 
 
 ### Build Application
@@ -25,7 +30,6 @@ Then open [http://localhost:3000](http://localhost:3000), to view it in your bro
 The current application production build is in the /build folder, to update the build folder, type the following in your command prompt in the application folder:
 
 `npm run build`
-
 
 
 ## To deploy this project

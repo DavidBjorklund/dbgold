@@ -15,13 +15,14 @@ import FourOFour from './fourofour';
 
 import Footer from './footer';
 
-import history from '../history.js'
+import history from '../history.js';
 
+const basename = '/~davidbd/webbutveckling1/projekt/foretag/';
 
 const App = ()=>{
   const { cart, setCart } = useContext(AppContext)
   return (
-    <BrowserRouter history={history} basename="/~davidbd/webbutveckling1/projekt/foretag/">
+    <BrowserRouter history={history} basename={basename}>
       <ScrollToTop />
       <Header />
       <Switch>
