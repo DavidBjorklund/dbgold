@@ -3,6 +3,7 @@ This is a project application of an ecommerce website, made purely with ReactJS.
 
 The hosted of version of this ecommerce site can be found at [Värmdö Gymnasiums server](http://labb.vgy.se/~davidbd/webbutveckling1/projekt/foretag).
 
+This webapp was created as a project in high-school class Webdevelopment 1.
 
 ## To run this project locally
 ### Prerequisites:
